@@ -1,6 +1,6 @@
 ---
 title: Recruitment
-permalink: /recruit/
+permalink: /recruitment/
 ---
 
 ### Let’s enjoy TACO together!
