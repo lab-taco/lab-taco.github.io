@@ -30,12 +30,13 @@ nav:
     href:           "/publication"
   - name:           "people"
     href:           "/people"
+  - name:           "recruitment"
+    href:           "/recruitment"
   - name:           "blog"
     href:           "/blog"
   - name:           "resources"
     href:           "/resources"
-  - name:           "recruitment"
-    href:           "/recruitment"
+
 
 # Sass
 sass:
