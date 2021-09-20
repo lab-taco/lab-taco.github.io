@@ -10,12 +10,15 @@ joined: 2021
 
 - _Researcher, Brain Science Institute, Korea Institute of Science and Technology (KIST), Apr. 2021-present_<br>
 
+**Contact**<br>
+
 [Homepage](https://sites.google.com/view/sungjaecho)<br>
 <i class="fa fa-envelope-o"></i> `sj.cho@kist.re.kr`<br>
+<a href="https://twitter.com/SungjaeAI"><i class="fa fa-twitter"></i> Twitter</a><br>
 <i class="fa fa-github"></i> [Github](https://github.com/sungjae-cho)
 
 **Office**<br>
-L7205, <br>
+L7205<br>
 
 **Research Interest**
 - E-I balance; interplay of excitory and inhibitory neurons
