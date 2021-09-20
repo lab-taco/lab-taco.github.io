@@ -7,7 +7,7 @@ avatar: taegonkim_profile.png
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 
-- _Senior Researcher,Brain Science Institute, Korea Institute of Science and Technology (KIST), 2018-present_<br>
+- _Senior Researcher, Brain Science Institute, Korea Institute of Science and Technology (KIST), 2018-present_<br>
 
 <i class="fa fa-envelope-o"></i> `taegon.kim@kist.re.kr`
 
