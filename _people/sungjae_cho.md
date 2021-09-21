@@ -12,8 +12,8 @@ joined: 2021
 
 **Contact**<br>
 
-[Homepage](https://sites.google.com/view/sungjaecho)<br>
 <i class="fa fa-envelope-o"></i> `sj.cho@kist.re.kr`<br>
+[Homepage](https://sites.google.com/view/sungjaecho)<br>
 <a href="https://twitter.com/SungjaeAI"><i class="fa fa-twitter"></i> Twitter</a><br>
 <i class="fa fa-github"></i> [Github](https://github.com/sungjae-cho)
 
