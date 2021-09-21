@@ -7,6 +7,18 @@ For those interested in numbers, see Taegon's [google scholar citations profile]
 
 <hr>
 
+__Projection-dependent heterogeneity of cerebellar granule cell calcium responses__<br>
+Jun Kyu Rhee, Heeyoun Park, <u>Taegon Kim</u>, Yukio Yamamoto, Keiko Tanaka-Yamamoto<br>
+Molecular brain, 14, 1-17 (2021)
+
+__Electric Stimulation Elicits Heterogeneous Responses in ON but Not OFF Retinal Ganglion Cells to Transmit Rich Neural Information__<br>
+Joon Ho Kang, Ye Ji Jang, <u>Taegon Kim</u>, Byung Chul Lee, Soo Hyun Lee, Maesoon Im<br>
+IEEE Transactions on Neural Systems and Rehabilitation Engineering, 29, 300-309 (2021)
+
+__Inputs from sequentially developed parallel fibers are required for cerebellar organization__<br>
+Heeyoun Park, <u>Taegon Kim</u>, Jinhyun Kim, Yukio Yamamoto, Keiko Tanaka-Yamamoto<br>
+Cell reports, 28, 2939-2954 (2019)
+
 __Postsynaptic Stability and Variability Described by a Stochastic Model of Endosomal Trafficking__<br>
 <u>Taegon Kim</u>, and Keiko Tanaka-Yamamoto<br>
 Frontiers in Cellular Neuroscience, 13, 72 (2019)
