@@ -20,6 +20,10 @@ markdown:           kramdown
 # Highlighter
 highlighter:        rouge
 
+# Reading Files
+include:
+  - _pages
+
 # Navigation
 nav:
   - name:           "home"
