@@ -9,8 +9,8 @@ description:        "This is a page for TACO lab, we are theoretical neurosciece
 
 
 # URL
-url:                http://kordinglab.com
-baseurl:            
+url:                https://taco-lab.net
+baseurl:
 #baseurl:            "" #For Root Domain
 permalink:          /:year/:month/:day/:title.html
 
