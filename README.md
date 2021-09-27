@@ -29,9 +29,9 @@ joined: 2014
 ```
 
 If you don't have information, just leave it blank. The avatar will bring photo from `images/people` folder and display it on people page.
-For lab position, you can choose position from 2 classes including `pi` and `researcher` (so called Honorary members). Position will put you into section that you choose.
+For lab position, you can choose position from 3 classes including `pi`, `researcher`, and `alumni`. Position will put you into section that you choose.
 
-We offer a template file `_people/firstname_lastname.md` to help you easily make your page. 
+We offer a template file `_people/firstname_lastname.md` to help you easily make your page.
 
 ### Edit other pages
 
