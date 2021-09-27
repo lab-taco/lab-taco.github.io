@@ -1,6 +1,6 @@
 ---
 name: FirstName LastName
-position: others
+position: alumni
 avatar:
 twitter: twittername
 joined: 2021
