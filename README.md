@@ -1,6 +1,6 @@
-# Kording lab page
+# TACO lab page
 
-This is repository for [Kording lab page](http://kordinglab.com/). We use Jekyll to run our Github page. We are welcome for other people to contribute to our site not just lab members. Feel free to fork and pull-request!
+This is repository for [TACO lab page](https://taco-lab.net/). We use Jekyll to run our Github page. We are welcome for other people to contribute to our site not just lab members. Feel free to fork and pull-request!
 
 ## Run the page locally using Jekyll
 
@@ -14,31 +14,6 @@ jekyll serve
 
 ## Editing the lab website
 
-Below, we explain how to edit the lab webpage
-
-### Add posts
-
-It's very easy to add post. All the posts are located in `_posts` folder. It arrangement is based on
-date. Each post can be written in markdown format. You just have to state headers before writing: `title`, `description` and `categories`. `description` will be shown when you share on social media like Facebook or twitter. See the following headers:
-
-``` markdown
----
-title: Summer School in Computational Sensory-Motor Neuroscience (CoSMo)
-description: all links to CoSMo summer school in computational neuroscience materials
-categories: scientists
----
-```
-
-We have 4 categories: `scientists`, `students`, `discussion`, `blog` you can choose and this will be rendered to different location.
-
-### How to add posts
-
-- **Directly edit on Github**, you can simply go to `_posts` and click `New file` then put some markdown file e.g. `2016-02-03-post-name.md` and start writing blog post. Github also allows you to preview it so it's nice for people who don't want to clone the repo. 
-
-- **Clone the repository**, kind of the same as directly add post on Github. You just have to clone the repository. Then add new post file, commit and push to the repo.
-
-The changes will take approximately half a minute to render. You can see the new posts or changes on [kordinglab.com](http://kordinglab.github.io/)!
-
 ### Add yourself
 
 You can add yourself to the page in `_people` folder just create file name `<firstname>_<lastname>.md` in the folder. We require few line of header before you start writing your own page. See the following for the header
@@ -46,20 +21,20 @@ You can add yourself to the page in `_people` folder just create file name `<fir
 ``` markdown
 ---
 name: Eva Dyer
-position: postdoc
+position: researcher
 avatar: eva.jpg
 twitter:
 joined: 2014
 ---
 ```
 
-If you don't have information, just leave it blank. The avatar will bring photo from `images/people` folder and display it on people page. 
-For lab position, you can choose position from 4 classes including `postdoc`, `gradstudent`, `visiting`, `others` (so called Honorary members). Position will put you into section that you choose.
+If you don't have information, just leave it blank. The avatar will bring photo from `images/people` folder and display it on people page.
+For lab position, you can choose position from 2 classes including `pi` and `researcher` (so called Honorary members). Position will put you into section that you choose.
 
-### Add new publications
+We offer a template file `_people/firstname_lastname.md` to help you easily make your page. 
 
-All publications from the lab are located in `publications.md`. Please upload new publication on your own!
+### Edit other pages
 
-### Add news
-
-All news presented in the front page by editing `_data/news.yml`. There are some symbol that cannot be used directly e.g. `:`, be careful
+You can edit the front page by editing `index.html`,
+and other pages by editing markdown files in `_pages`.
+These pages are in charge of the PI; thus, change these only when you find some typos.
