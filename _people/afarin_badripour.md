@@ -1,6 +1,6 @@
 ---
 name: Afarin Badripour
-position: researcher
+position: Student researcher
 avatar: 
 joined: 2019.07
 ---
