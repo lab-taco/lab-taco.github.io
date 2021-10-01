@@ -1,13 +1,13 @@
 ---
 name: Afarin Badripour
-position: Student researcher
+position: researcher
 avatar: 
 joined: 2019.07
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 
-- _Ph.D. student, Brain Science Institute, Korea Institute of Science and Technology (KIST), 2019-present
+- Ph.D. student, Brain Science Institute, Korea Institute of Science and Technology (KIST), 2019-present
 
 **Contact**<br>
 
