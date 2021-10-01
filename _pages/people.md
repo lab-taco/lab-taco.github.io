@@ -48,9 +48,15 @@ permalink: /people/
 
 <br>
 
-| Who are they | When were they here | Where they went |
-| :------------- |:-------------| :-----------|
-| [First Last](http://lab-taco.github.io) | Position (2019 - 2020) | Another institution |
+| Name | Title | Works | Current |
+| :------------- |:-------------| :-----------| :-----------|
+| Minho Kim | Intern (2019.3. - 2019.8.) | Mouse behavior segmentation by NN algorithm | |
+| Seonmin Kim | Intern (2019.3. - 2019.8.) | RNA-seq data analysis | |
+| JeongJae Park | Intern (2019.7. - 2019.8.) | Modeling cerebellar granule cell migration | |
+| Ji Yeon Kim | Intern (2019.7. - 2019.8.) | Modeling cerebellar granule cell migration | |
+| Jongeun Kim | Intern (2019.9. - 2019.12.) | Calcium imaging analysis algorithm | |
+| Hyeseong Byun | Intern (2020.1. - 2020.12.) | Open source equipment building for animal behavior observation | |
+
 
 {% endif %}
 {% endfor %}
