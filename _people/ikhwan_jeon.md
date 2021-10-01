@@ -2,7 +2,7 @@
 name: Ikhwan Jeon
 position: researcher
 avatar:
-joined:
+joined: 2020
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
