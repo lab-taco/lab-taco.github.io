@@ -17,9 +17,8 @@ joined: 2019.07
 L7205<br>
 
 **Research Interest**<br>
-
-Fear learning and Amygdoloid control system 
-Mathematical modeling and simulation of brain circuits.
-Genetic and Epigenetic networks  
+Fear learning and Amygdoloid control system <br>
+Mathematical modeling and simulation of brain circuits. <br>
+Genetic and Epigenetic networks  <br>
 
 
