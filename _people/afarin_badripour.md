@@ -11,8 +11,7 @@ joined: 2019.07
 
 **Contact**<br>
 
-<i class="fa fa-envelope-o"></i> `afarinbp@kist.re.kr`<br>
-<i class="fa fa-envelope-o"></i> `afarin.bp70@gmail.com`<br>
+<i class="fa fa-envelope-o"></i> `afarin.bp70@gmail.com`<br> `afarinbp@kist.re.kr`<br>
 
 **Office**<br>
 L7205<br>
