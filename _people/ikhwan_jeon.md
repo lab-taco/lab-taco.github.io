@@ -7,7 +7,7 @@ joined: 2020
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 
-- _Intern, Brain Science Institute, Korea Institute of Science and Technology (KIST), ?-?_<br>
+- _Intern, Brain Science Institute, Korea Institute of Science and Technology (KIST), Mar. 2020-Present_<br>
 
 **Contact**<br>
 
@@ -16,3 +16,5 @@ joined: 2020
 **Office**<br>
 L7205<br>
 
+**Research Interests**
+- Neural Coding, Neural Communication, Neural Dynamics
