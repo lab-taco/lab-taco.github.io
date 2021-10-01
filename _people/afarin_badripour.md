@@ -12,8 +12,8 @@ joined: 2019.07
 **Contact**<br>
 
 <i class="fa fa-envelope-o"></i>  `afarinbp@kist.re.kr`<br>
-Linkedin
-https://www.linkedin.com/in/afarin-badripour-0b932b4a/
+<i class="fa fa-linkedin-square" aria-hidden="true"></i> [LinkedIn](https://www.linkedin.com/in/afarin-badripour-0b932b4a/) <br>
+
 
 **Office**<br>
 L7205<br>
