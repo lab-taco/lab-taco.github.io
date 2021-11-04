@@ -19,3 +19,5 @@ L7205<br>
 
 **Research Interests**
 - Emotion-Cognition Interaction
+- Narcolepsy and Hypersormnia
+- REM-related sleep-disordered breathing with depressive symptoms
