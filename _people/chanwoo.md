@@ -1,6 +1,6 @@
 ---
 name: Chanwoo Park
-position: intern
+position: researcher
 avatar:
 twitter:
 joined: 2021
