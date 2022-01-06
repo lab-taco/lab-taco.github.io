@@ -1,7 +1,7 @@
 ---
 name: JinMin Hwang
 position: researcher
-avatar:
+avatar: jinminhwang_profile.jpg
 twitter: 
 joined: 2021.1
 ---
