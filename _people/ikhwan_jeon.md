@@ -1,13 +1,13 @@
 ---
 name: Ikhwan Jeon
-position: researcher
+position: alumni
 avatar:
 joined: 2020
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 
-- _Intern, Brain Science Institute, Korea Institute of Science and Technology (KIST), Mar. 2020-Present_<br>
+- _Intern, Brain Science Institute, Korea Institute of Science and Technology (KIST), Mar. 2020 - Dec. 2021_<br>
 
 **Contact**<br>
 
