@@ -56,6 +56,7 @@ permalink: /people/
 | Ji Yeon Kim | Intern (2019.7. - 2019.8.) | Modeling cerebellar granule cell migration | |
 | Jongeun Kim | Intern (2019.9. - 2019.12.) | Calcium imaging analysis algorithm | |
 | Hyeseong Byun | Intern (2020.1. - 2020.12.) | Open source equipment building for animal behavior observation | |
+| Ikhwan Jeon | Intern (2020.3. - 2021.12.) | | |
 
 
 {% endif %}
