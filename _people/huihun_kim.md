@@ -17,4 +17,4 @@ joined: 2021.12
 <i class="fa fa-linkedin-square" aria-hidden="true"></i> [LinkedIn](https://www.linkedin.com/in/huihunkim/) <br>
 
 **Office** <br>
-L7205 <br>
+L7204<br>

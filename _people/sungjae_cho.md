@@ -18,7 +18,7 @@ joined: 2021
 <i class="fa fa-github"></i> [Github](https://github.com/sungjae-cho)
 
 **Office**<br>
-L7205<br>
+L7204<br>
 
 **Research Interest**
 - E-I balance; interplay of excitory and inhibitory neurons

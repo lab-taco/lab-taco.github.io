@@ -12,7 +12,7 @@ avatar: taegonkim_profile.png
 <i class="fa fa-envelope-o"></i> `taegon.kim@kist.re.kr`
 
 **Office**<br>
-L7204, +82-958-7218 <br>
+L7205, +82-958-7218 <br>
 
 **Research Interest**
 - Multi-scale anatomical and functional connectome analysis

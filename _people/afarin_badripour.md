@@ -16,7 +16,7 @@ joined: 2019.07
 
 
 **Office**<br>
-L7205<br>
+L7204<br>
 
 **Research Interest**
 - Fear learning and amygdoloid control system

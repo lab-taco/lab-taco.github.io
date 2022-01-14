@@ -15,7 +15,7 @@ joined: 2021
 <i class="fa fa-envelope-o"></i> `cksdn1290@kist.re.kr`<br>
 
 **Office**<br>
-L7205<br>
+L7204<br>
 
 **Research Interests**
 - Emotion-Cognition Interaction
