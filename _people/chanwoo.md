@@ -1,6 +1,6 @@
 ---
 name: Chanwoo Park
-position: researcher
+position: alumni
 avatar:
 twitter:
 joined: 2021
@@ -8,7 +8,7 @@ joined: 2021
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 
-- _Intern, Brain Science Institute, Korea Institute of Science and Technology (KIST), Nov. 2021-Present_<br>
+- _Intern, Brain Science Institute, Korea Institute of Science and Technology (KIST), Nov. 2021 - Mar. 2022_<br>
 
 **Contact**<br>
 

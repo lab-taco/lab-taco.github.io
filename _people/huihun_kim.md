@@ -1,6 +1,6 @@
 ---
 name: Huihun Kim
-position: researcher
+position: alumni
 avatar: huihunkim_profile.jpg
 twitter:
 joined: 2021.12
@@ -8,7 +8,7 @@ joined: 2021.12
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 
-- _Intern, Brain Science Institute, Korea Institute of Science and Technology (KIST), Dec. 2021-present_
+- _Intern, Brain Science Institute, Korea Institute of Science and Technology (KIST), Dec. 2021 - Feb. 2022_
 
 **Contact**
 

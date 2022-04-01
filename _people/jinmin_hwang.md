@@ -1,14 +1,14 @@
 ---
 name: JinMin Hwang
-position: researcher
+position: alumni
 avatar: jinminhwang_profile.jpg
-twitter: 
-joined: 2021.1
+twitter:
+joined: 2022.1
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 
-- _Intern, Brain Science Institute, Korea Institute of Science and Technology (KIST), Jan. 2021-present_
+- _Intern, Brain Science Institute, Korea Institute of Science and Technology (KIST), Jan. 2021 - Feb. 2022_
 
 **Contact**
 
