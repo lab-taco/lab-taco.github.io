@@ -57,6 +57,9 @@ permalink: /people/
 | Jongeun Kim | Intern (2019.9. - 2019.12.) | Calcium imaging analysis algorithm | |
 | Hyeseong Byun | Intern (2020.1. - 2020.12.) | Open source equipment building for animal behavior observation | |
 | [Ikhwan Jeon]({{site.baseurl}}/people/ikhwan_jeon/) | Intern (2020.3. - 2021.12.) | | |
+| [Chanwoo Park]({{site.baseurl}}/people/chanwoo/) | Intern (2021.11. - 2022.3.) |  | |
+| [Huihun Kim]({{site.baseurl}}/people/huihun_kim/) | Intern (2021.12. - 2022.2.) | Whole-neuron excitatory/inhibitory balance | |
+| [JinMin Hwang]({{site.baseurl}}/people/jinmin_hwang/) | Intern (2022.1. - 2022.1.) | Whole-neuron excitatory/inhibitory balance | |
 
 
 {% endif %}
