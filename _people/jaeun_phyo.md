@@ -7,7 +7,7 @@ joined: 2022.04
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 
-- Researcher, Brain Science Institute, Korea Institute of Science and Technology (KIST), Apr. 2022-present_<br>
+- _Researcher, Brain Science Institute, Korea Institute of Science and Technology (KIST), Apr. 2022-present_<br>
 
 
 **Contact**<br>
