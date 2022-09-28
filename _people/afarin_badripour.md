@@ -1,7 +1,7 @@
 ---
 name: Afarin Badripour
 position: researcher
-avatar: 
+avatar: afarin_badripour.jpg 
 joined: 2019.07
 ---
 
