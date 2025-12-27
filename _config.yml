@@ -36,6 +36,8 @@ nav:
     href:           "/people"
   - name:           "recruitment"
     href:           "/recruitment"
+  - name:           "Lab photo"
+    href:           "/photo"
 
 
 # Sass
